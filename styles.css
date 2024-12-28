@@ -4,7 +4,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-image: url("tree.jpg");
+    background-image: url("https://cdn.pixabay.com/photo/2016/11/23/13/50/mountains-1852955_1280.jpg");
     background-size: cover;
     font-family: Arial, sans-serif;
   }
@@ -35,7 +35,7 @@ body {
     margin-top: 0;
     font-size: 30px;
     font-weight: 800;
-    color: #67b99a;
+    color: #155d27;
   }
 
   form {
@@ -66,7 +66,7 @@ body {
   }
 
   input::placeholder{
-    color: #67b99a;
+    color: #155d27;
   }
 
   button {
@@ -76,7 +76,7 @@ body {
     border: none;
     border-radius: 5px;
     font-weight: 700;
-    background-color: #67b99a;
+    background-color: #155d27;
     color: #fff;
     font-size: 3vmin;
     cursor: pointer;
@@ -103,7 +103,7 @@ body {
 
   .noAccount a {
     font-weight: 700;
-    color: #67b99a;
+    color: #155d27;
     text-decoration: none;
   }
 
